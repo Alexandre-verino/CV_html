@@ -1,0 +1,30 @@
+.general {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px; 
+}
+
+.droite {
+
+      list-style-position: inside;
+      width: 45%;
+      text-align: center;  
+      font-size: 25px;     
+    }
+.text_droite {
+  text-align: left; 
+  list-style-position: inside;
+  justify-content: flex-start; 
+}
+.gauche {
+ 
+      justify-content: flex-start;
+      width: 60%;
+      text-align:left;    
+    }
+
+.centre {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 80%;
+}
