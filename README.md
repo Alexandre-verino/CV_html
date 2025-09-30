@@ -1,4 +1,4 @@
-# CV en html et css
+# CV en HTML et CSS
 
 <img width="300" height="168" alt="Github" src="https://github.com/user-attachments/assets/d4dd8b3c-e259-40ad-acff-b47b4de4abca" />
 
